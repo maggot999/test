@@ -1,5 +1,5 @@
 describe('lol', function () {
    it('should be lol', function () {
-       expect(lol).toBe(2);
+       expect(lol).toBe(1);
    });
 });
