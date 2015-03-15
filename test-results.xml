@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<testsuites>
+  <testsuite name="PhantomJS 1.9.8 (Linux)" package="" timestamp="2015-03-15T08:48:49" id="0" hostname="maggot-ci-1355607" tests="1" errors="0" failures="0" time="0.001">
+    <properties>
+      <property name="browser.fullName" value="Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"/>
+    </properties>
+    <testcase name="should be lol" time="0.001" classname="PhantomJS 1.9.8 (Linux).lol"/>
+    <system-out><![CDATA[
+]]></system-out>
+    <system-err/>
+  </testsuite>
+</testsuites>
